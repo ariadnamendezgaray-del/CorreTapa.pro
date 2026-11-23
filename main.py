@@ -3,7 +3,7 @@ import logica
 import interface
 
 def gestionar_aplicacio():
- mostrar_benvinguda()
+    mostrar_benvinguda()
     actiu = True
     while actiu:
         mostrar_menu_principal()
